@@ -1,3 +1,32 @@
-name: Hank Quinlan, Horrible Cop
+# Site settings
+title: pjekyll
+url: "http://127.0.0.1:4000/pjekyll/"    # the protocol and hostname of your site, eg. `http://127.0.0.1:4000/pjekyll/`
+baseurl: "/pjekyll"
+# Your information
+email: pprieto.hisix2@gmail.com
+author: Prieto
+resume: "http://127.0.0.1:4000/pjekyll/"
+github_username:  pprieto8
+
+#  choose one and un-comment the line to active it
+disqus_shortname: pprieto8   
+# get one: https://disqus.com/admin/signup/
+# duoshuo_shortname: clark-zhao  
+# get one: http://duoshuo.com/create-site/
+
+permalink: /archivers/:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 2
+paginate_path: "/page:num"
+
+highlighter: rouge
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
