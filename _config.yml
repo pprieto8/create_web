@@ -1,9 +1,9 @@
 # Site settings
-title: pjekyll
+title: Pekyll's
 url: "http://127.0.0.1:4000"    # the protocol and hostname of your site, eg. `http://127.0.0.1:4000/pjekyll/`
 # Your information
 email: pprieto.hisix2@gmail.com
-author: Prieto
+author: Pablo
 resume: "http://127.0.0.1:4000/pjekyll/"
 github_username:  pprieto8
 
