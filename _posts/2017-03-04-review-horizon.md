@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Example content
-author: CK
-date:   2016-04-22
-categories: Demo
-permalink: /archivers/Example-content
+title: Review Horizon
+author: Pablo
+date:   2017-03-04
+categories: Juegos
+permalink: /archivers/Review1
+comments: true
 ---
 
 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.</p>

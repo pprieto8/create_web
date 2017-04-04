@@ -1,10 +1,10 @@
 # Site settings
 title: Pekyll's
-url: "http://127.0.0.1:4000"    # the protocol and hostname of your site, eg. `http://127.0.0.1:4000/pjekyll/`
+url: "https://pprieto8.github.io/"
 # Your information
 email: pprieto.hisix2@gmail.com
 author: Pablo
-resume: "http://127.0.0.1:4000/pjekyll/"
+resume: "https://pprieto8.github.io/"
 github_username:  pprieto8
 
 #  choose one and un-comment the line to active it

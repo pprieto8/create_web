@@ -1,17 +1,14 @@
   <header id="header">
     <div class="headerWrap clearfix">
-      <a class="myFont title css2dcc4b9955748" href="{{ "/home" | prepend: site.baseurl }}">{{ site.title }}</a>
       <nav>
         <ul>
+          <li><a class="myFont title css2dcc4b9955748" id="title_page">{{ site.title }}</a></li>
           <li><a href="{{ "/home" | prepend: site.baseurl }}" class="myFont css2dcc4b9955748">Inicio</a></li>
           <li><a href="{{ "/index" | prepend: site.baseurl }}" class="myFont css2dcc4b9955748">Blog</a></li>
-          <li><a href="{{ "/about" | prepend: site.baseurl }}" class="myFont css2dcc4b9955748">About</a></li>
+          <li><a href="{{ "/about" | prepend: site.baseurl }}" class="myFont css2dcc4b9955748">Info</a></li>
+          <li class="avatarWrap"><a href="{{ site.resume }}" class="master">
+			  <img src='{{ "/assets/avatar.jpg" | prepend: site.baseurl }}' alt="{{ site.author }}" style="max-width: 27px;" /></a></li>
         </ul>
       </nav>
-      <a href="{{ site.resume }}" class="master">
-        <div class="avatarWrap">
-          <img src="{{ "/assets/avatar.jpg" | prepend: site.baseurl }}" alt="{{ site.author }}" style="max-width: 27px;" />
-        </div><span class="myFont css2dcc4b9955748">{{ site.author }}</span>
-      </a>
     </div>
-  </header>
+  </header> 

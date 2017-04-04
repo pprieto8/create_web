@@ -2,23 +2,15 @@
 layout: home
 ---
 <div class="profile">
-	<div class="profile-main">
-		<div class="top">
-			<span class="name">{{ site.author }}</span>，<span class="bio" title="Pjekyll's Blog"><a class=" external" rel="nofollow noreferrer" target="_blank" href="{{ site.url }}">{{ site.url }}</a></span>
-		</div>
-		<div class="body clearfix">
-			<div class="profile-avatar"><img id="image_profile" src="{{ "/assets/avatar.jpg" | prepend: site.baseurl }}" alt="{{ site.author }}"/></div>
-		</div>
-	</div>
 	<div class="profile-navbar clearfix">
 		<a href="{{ "/home" | prepend: site.baseurl }}"><i class="fa fa-home" aria-hidden="true"></i></a>
-		<a href="{{ "/index.html" | prepend: site.baseurl }}" target="_blank">Blog<span>{{ site.posts.size }}</span></a>
-		<a href="{{ "/about" | prepend: site.baseurl }}" target="_blank">About</a>
+		<a href="{{ "/index.html" | prepend: site.baseurl }}">Blog<span>{{ site.posts.size }}</span></a>
+		<a href="{{ "/about" | prepend: site.baseurl }}">Info</a>
 	</div>
 </div>
 
 <div class="home-category">
-  <h1 class="page-heading">Categories</h1>
+  <h1 class="page-heading">Categorías</h1>
 
   <ul class="post-list">
 
@@ -29,7 +21,7 @@ layout: home
 <h2 class="category" id="{{ word }}">{{ word | upcase }}</h2>
 <ul>
 {% for post in site.categories[word] %}{% if post.title != null %}
-<li><span>{{ post.date | date: "%b %d, %Y" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+<li><span>{{ post.date | date: "%b %d, %Y" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>
 {% endunless %}{% endfor %}
