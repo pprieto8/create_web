@@ -1,97 +1,37 @@
 ---
 layout: post
-title: Review Horizon
+title: Análisis Horizon
 author: Pablo
 date:   2017-03-04
-categories: Juegos
-permalink: /archivers/Review1
+categories: Analisis
+permalink: /archivers/review-horizon
 comments: true
 ---
 
-<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.</p>
+![Small example image](/img/horizon1.jpg "Small example image")
 
-Morbi ultrices libero imperdiet [lectus](#) dignissim, sit amet bibendum nisl consectetur. Morbi erat purus, pretium at ligula tincidunt, faucibus commodo sem. Etiam vel porttitor est, vitae maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sapien turpis, cursus non porta ac.
+<p class="lead">El momento ha llegado. Lo que vas a leer a continuación es el análisis de Horizon: Zero Dawn, no sólo uno de los más esperados del año sino también 
+una de las esperanzas principales de Sony en cuanto a nuevas marcas para una PS4 que ha comenzado el 2017 en inusitada buena forma. 
+La consola necesitaba buenos videojuegos como el comer, y Aloy ha querido poner su granito de arena con una aventura de mundo abierto y gotas 
+RPG de impecable factura visual y robusto apartado jugable. Análisis Horizon: Zero Dawn.</p>
 
-## Lorem
-Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
+![Small example image](/img/horizon2.jpg "Small example image")
 
-### Ipsum
-Nunc nec aliquam tellus. Etiam faucibus magna nibh, ut fermentum velit consectetur id. Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
+<p class="lead">
+Las nuevas propiedades intelectuales son la puerta ideal para que los estudios de talento introduzcan ideas en el mundillo, 
+y cuando se dibuja un universo tan único como el que propone Horizon: Zero Dawn uno puede imaginar sin problemas a los creativos de 
+Guerrilla Games trabajando sin ningún tipo de cortapisa. El sueño de cualquier artista. La imaginación ha tenido que ser el único límite a la hora de 
+crear un videojuego de aventuras colosal en términos cuantitativos, una obra faraónica que recuerda de alguna manera al viejo cine de estudio de los años 60, 
+y una historia de búsqueda de orígenes y de hallazgo de uno mismo que tiene tanto de relato clásico, como revolucionario es a nivel conceptual el contexto en 
+el que se ambienta.
+</p>
 
-> Nam vitae commodo ex. Nunc vel tellus leo.
-
-## Dugem
-Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
-
-{% highlight js %}
-
-function trigger_alert(){
-  alert("Lorem Ipsum dolor sit amet");
-}
-
-trigger_alert();
-
-{% endhighlight %}
-
-### Golem
-Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
-
-* Praesent commodo cursus magna.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus.
-3. Maecenas sed diam eget risus.
-
-Nam ante lacus, ornare ut lacus in, aliquet gravida orci. Donec non dignissim elit. Integer facilisis lorem sed porttitor elementum. Etiam a eleifend justo. 
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
-
-![Large example image](http://placehold.it/800x400 "Large example image")
-![Medium example image](http://placehold.it/400x200 "Medium example image")
-![Small example image](http://placehold.it/200x200 "Small example image")
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Rank</th>
-      <th>Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cookie</td>
-      <td>#69</td>
-      <td>169</td>
-    </tr>
-    <tr>
-      <td>Buther</td>
-      <td>#70</td>
-      <td>169</td>
-    </tr>
-    <tr>
-      <td>Stuart</td>
-      <td>#71</td>
-      <td>168</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam quis risus eget urna mollis ornare vel eu leo.
+<p class="lead">
+Siempre he estado muy interesado en los mundos abiertos. Tras pasar décadas de infancia encorsetado en videojuegos donde todo estaba preestablecido, 
+siempre me ha parecido que es el horizonte (valga la redundancia) al que debe aspirar la industria. Pero también debo decir que en los últimos tiempos 
+se ha empleado la noción de libertad más como fin a alcanzar que como medio para poder llegar a lograr algo interesante, y eso ha provocado no sólo una 
+cierta explotación en el medio sino también un importante hartazgo por parte de los aficionados. Es por ello que algunos acogieron con cierto escepticismo 
+la apuesta de este estudio de inclinarse por una obra de ese perfil, especialmente con un currículum como el suyo plagado de lanzamientos de carácter lineal 
+tan estupendos como los de la serie Killzone. No obstante, y lejos de inclinarse por algo que meramente está de moda, en Guerrilla han utilizado la herramienta 
+que es el mundo abierto para lograr algo grande.
+</p>
