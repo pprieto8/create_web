@@ -6,7 +6,7 @@ date:   2017-03-04
 categories: Analisis
 permalink: /archivers/review-horizon
 comments: true
-tags: games reviews dinosaur ps4
+tags: juegos analisis dinosaurio ps4
 ---
 
 ![Small example image](/img/horizon1.jpg "Small example image")

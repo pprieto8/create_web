@@ -6,7 +6,7 @@ date:   2017-04-16
 categories: Avances
 permalink: /archivers/avance-starwars
 comments: true
-tags: games avances naves ps4
+tags: juegos avances naves ps4
 ---
 
 Haz click en la imagen para ver el tráiler

@@ -6,7 +6,7 @@ date:   2017-03-04
 categories: Analisis
 permalink: /archivers/review-nier
 comments: true
-tags: games reviews robots ps4
+tags: juegos analisis robots ps4
 ---
 
 ![Small example image](/img/nier3.jpg "Small example image")

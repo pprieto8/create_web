@@ -6,7 +6,7 @@ date:   2017-04-10
 categories: Analisis
 permalink: /archivers/review-masseffect
 comments: true
-tags: games reviews espacio ps4
+tags: juegos analisis espacio ps4
 ---
 
 ![Small example image](/img/masseffect1.jpg "Small example image")
