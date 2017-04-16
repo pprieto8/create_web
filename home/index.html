@@ -1,13 +1,6 @@
 ---
-layout: home
+layout: page
 ---
-<div class="profile">
-	<div class="profile-navbar clearfix">
-		<a href='{{ "/home" | prepend: site.baseurl }}'><i class="fa fa-home" aria-hidden="true"></i></a>
-		<a href='{{ "/index.html" | prepend: site.baseurl }}'>Blog<span>{{ site.posts.size }}</span></a>
-		<a href='{{ "/about" | prepend: site.baseurl }}'>Info</a>
-	</div>
-</div>
 
 <div class="home-category">
   <h1 class="page-heading">Categorías</h1>
@@ -27,5 +20,4 @@ layout: home
 {% endunless %}{% endfor %}
 
   </ul>
-  
 </div>
