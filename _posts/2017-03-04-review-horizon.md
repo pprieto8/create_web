@@ -6,7 +6,7 @@ date:   2017-03-04
 categories: Analisis
 permalink: /archivers/review-horizon
 comments: true
-tags: games tree dinosaur ps4
+tags: games reviews dinosaur ps4
 ---
 
 ![Small example image](/img/horizon1.jpg "Small example image")
@@ -26,6 +26,8 @@ crear un videojuego de aventuras colosal en términos cuantitativos, una obra fa
 y una historia de búsqueda de orígenes y de hallazgo de uno mismo que tiene tanto de relato clásico, como revolucionario es a nivel conceptual el contexto en 
 el que se ambienta.
 </p>
+
+![Small example image](/img/horizon3.jpg "Small example image")
 
 <p class="lead">
 Siempre he estado muy interesado en los mundos abiertos. Tras pasar décadas de infancia encorsetado en videojuegos donde todo estaba preestablecido, 
